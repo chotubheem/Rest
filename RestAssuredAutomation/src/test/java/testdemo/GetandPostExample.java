@@ -19,7 +19,7 @@ public class GetandPostExample {
 		then().
 		statusCode(200).
 		log().all();
-		System.out.println("Complete");
+//		System.out.println("Complete");
 		
 		
 	}
